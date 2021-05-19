@@ -2,26 +2,27 @@
 #### it is about a brief descripption of who i am and some of my likes and dislikes and also my hobbies, 19 may 2021
 #### By **Maxmillan Kuya**
 ## Description
-I am Maxmillan Kuya, i am an outgoing person and also open minded, am always curious to learn new things thats an habit i have recently discovered, like every body else i have my faults to which am trying to work on cause i believe we all have chances to rectify on ourselves.
-|likes|dislikes|
+I am Maxmillan Kuya, I am an outgoing person and also open minded, am always curious to learn new things thats an habit i have recently discovered, like every body else i have my faults to which am trying to work on cause i believe we all have chances to rectify on ourselves.
+|Likes|Dislikes|
 |---|---|
-|reading|i hate cats|
+|Reading|I hate cats|
 |making friends|swimming|
 |Hobbies|
 |travelling|
 |cooking|
 |watching movies
 ## Setup/Installation Requirements
-install
+Install
 * $ sudo apt-get update
 * $ sudo apt-get install code
 * $ sudo apt-get install node.js
 *$ sudo apt-get install npm
 ## Known Bugs
-no any bugs
+No any bugs
 ## Technologies Used
-HTML
-CSS
+* HTML
+* CSS
+* JS
 ## Support and contact details
 maxmillan.kuya@student.moringaschool.com
 ### License
